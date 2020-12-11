@@ -1,1 +1,1 @@
-Git homework: some text
+Git homework: some other, totally changed text to commin in /dev
